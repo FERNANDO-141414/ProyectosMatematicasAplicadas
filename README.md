@@ -1,2 +1,2 @@
 # ProyectosMatematicasAplicadas
-Trabajos realizados durante mi paso por la Licenciatura en Matemáticas Aplicadas
+Trabajos más destacados que realice durante mi paso por la Licenciatura en Matemáticas Aplicadas
